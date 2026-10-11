@@ -1,9 +1,9 @@
-# Linked List in C#
+# Data Structures in C#
 
-My CENG203 (Data Structures) practice: building a singly linked list from scratch in C#.
+My CENG203 (Data Structures) practice: building each data structure from scratch in C#.
 The course is taught in C++. I write the same structures in C# (my main language, heading to Unity).
 
-## Progress
+## Linked List (Week 3)
 
 - [x] `Node` class (`data` + `next`)
 - [x] Create nodes and link them by hand: `10 -> 20 -> 30 -> null`
